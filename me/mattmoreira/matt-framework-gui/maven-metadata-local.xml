@@ -3,10 +3,10 @@
   <groupId>me.mattmoreira</groupId>
   <artifactId>matt-framework-gui</artifactId>
   <versioning>
-    <release>1.0.2-BETA</release>
+    <release>1.0.10-BETA</release>
     <versions>
-      <version>1.0.2-BETA</version>
+      <version>1.0.10-BETA</version>
     </versions>
-    <lastUpdated>20200115011421</lastUpdated>
+    <lastUpdated>20200115013013</lastUpdated>
   </versioning>
 </metadata>

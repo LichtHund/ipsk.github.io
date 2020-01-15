@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>me.mattmoreira</groupId>
   <artifactId>matt-framework-gui</artifactId>
-  <version>1.0.2-BETA</version>
+  <version>1.0.10-BETA</version>
   <description>POM was created from install:install-file</description>
 </project>
