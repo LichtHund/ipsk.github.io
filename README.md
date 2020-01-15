@@ -1,1 +1,0 @@
-# ipsk.github.io
