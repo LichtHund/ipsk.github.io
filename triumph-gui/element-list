@@ -1,0 +1,7 @@
+dev.triumphteam.gui.builder.gui
+dev.triumphteam.gui.builder.item
+dev.triumphteam.gui.components
+dev.triumphteam.gui.components.exception
+dev.triumphteam.gui.components.nbt
+dev.triumphteam.gui.components.util
+dev.triumphteam.gui.guis
